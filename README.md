@@ -1,16 +1,12 @@
 # Markov Chain을 활용한 마케팅 데이터분석
-## 각 마케팅 채널의 기여도 분석과 각 기법 결과 비교
-* 분석 도구 : Python
-* 분석 기법
-  * Last Interaction Attribution Model
-  * First Interaction Attribution Model
-  * Linear Interaction Attribution Model
-  * Markov Chain Model
+### 주제 : 각 마케팅 채널의 기여도 분석과 각 기법 결과 비교
+### 분석 도구 : Python
+
 ### 프로젝트 요약
 #### (1) 분석개요
   * 마케팅의 목적 : 소비자들의 충족되지 못한 욕구를 발견하고, 그것을 충족시킬 방법을 마련하여 판매를 필수불가결하게 하는 것
   * 마케팅의 방법은 갈수록 다양해지고 있으며, 그중 디지털 마케팅의 비중이 더 커지고 있다.
-  * 그래서 이번 프로젝트의 주제는 데이터로 디지털 마케팅의 효과를 측정하는 방법에 관하여 다루고자 한다.
+  * 그래서 이번 프로젝트는 데이터로 디지털 마케팅의 효과를 측정하는 방법에 관하여 다루고자 함
   
 #### (2) 분석기법
 ##### Last Interaction Attribution Model
